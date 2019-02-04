@@ -4,6 +4,7 @@ namespace DynamicArray.Lists
 {
   public class DynamicList
   {
+      //initialize an empty array
     private int[] arr = new int[0];
 
     public void Add(int n)
